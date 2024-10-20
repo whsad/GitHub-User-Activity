@@ -67,3 +67,5 @@ mvn exec:java -Dexec.mainClass="com.kirito.GitHubActivityFetcher" -Dexec.args="o
 - **Fetch User Activity**: Displays the latest activity records of a specified GitHub user.
 - **Timestamp Display**: Users can choose whether to display time information for the activities.
 - **Supports Multiple Activity Types**: Includes various activity types such as pushes, issues, starring, forking, and more.
+
+*This is a solution to a project challenge in* [roadmap.sh](https://roadmap.sh/projects/github-user-activity)
